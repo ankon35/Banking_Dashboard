@@ -26,7 +26,7 @@ The **Home Dashboard** delivers an overview of all key metrics: total deposits, 
 
 ## 💳 Loan Analysis Dashboard
 
-*(./Dashboard%20Images/Loan%20Analysis.png)*
+![Loan Dashboard](./Dashboard%20Images/Loan%20Analysis.png)
 
 ### 📝 Description
 This dashboard visualizes loan distribution across **bank loan**, **business lending**, and **credit card balance** categories, segmented by **gender** and **banking type**.
@@ -35,6 +35,8 @@ This dashboard visualizes loan distribution across **bank loan**, **business len
 - **Bank Loans**: 1.77bn  
 - **Business Lending**: 2.60bn  
 - **Credit Card Balance**: 9.53M  
+
+![Heatmap](./Dashboard%20Images/Correlation%20Matrix.png)
 
 > **Moderate Correlation**  
 > - **Estimated Income ↔ Bank Loans (corr = 0.33)**: Higher income shows a tendency toward larger loans.
@@ -55,6 +57,8 @@ The **Deposit Dashboard** reveals insights on **bank deposit trends**, segmented
 - **Leading Occupation**: Structural Engineers (22.84M deposits)  
 - **Top Income Band**: Medium (54.17% of deposits)  
 - **Top Nationality**: European  
+
+![Heatmap](./Dashboard%20Images/Correlation%20Matrix.png)
 
 > **Strong Correlation**  
 > - **Bank Deposits ↔ Checking Accounts (corr = 0.84)**  
@@ -88,6 +92,8 @@ A final summary dashboard consolidating **loans, deposits**, and **account balan
   - Foreign Currency: 89.65M
   - Superannuation Savings: 76.59M
 
+![Heatmap](./Dashboard%20Images/Correlation%20Matrix.png)
+
 > **Moderate Correlation**  
 > - **Business Lending ↔ Bank Deposits (corr = 0.44)**  
 > - Suggests opportunity for **bundled deposit-loan offerings** to business clients.
@@ -106,7 +112,7 @@ A final summary dashboard consolidating **loans, deposits**, and **account balan
 ## 👤 Author
 
 **Arafat Hossain Ankon**  
-*Data Analyst *  
+*Data Analyst*  
 📫 [LinkedIn](#) | 📧 (https://www.linkedin.com/in/ankonhossain/)
 
 ---
